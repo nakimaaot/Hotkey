@@ -68,13 +68,13 @@ Find and Replace
 
 Packages เสริม
 ------
-Whitespace สำหรับลบ spacebar ส่วนเกิน  
+**Whitespace** สำหรับลบ spacebar ส่วนเกิน  
 **Brackets**   
 `Ctrl + M` Jump to the bracket matching  
 `Cmd + Ctrl + M` Select all the text inside the current brackets  
-Emmet สำหรับช่วยในการเขียน web  
-File-icons แสดง icon file ใน tree view ตาม file type  
-git-time-machine `Alt + T` เพื่อย้อนดู git history ของไฟล์  
-mini-map เปิด map ด้านข้างเพื่อดู content ทั้งหมดในไฟล์  
-todo-show `Ctrl + Shift + T` เปิด todo list  
-terminal-plus `Cmd + Shift + T` เพื่อเปิด terminal  
+**Emmet** สำหรับช่วยในการเขียน web  
+**File-icons** แสดง icon file ใน tree view ตาม file type  
+**git-time-machine** `Alt + T` เพื่อย้อนดู git history ของไฟล์  
+**mini-map** เปิด map ด้านข้างเพื่อดู content ทั้งหมดในไฟล์  
+**todo-show** `Ctrl + Shift + T` เปิด todo list  
+**terminal-plus** `Cmd + Shift + T` เพื่อเปิด terminal  
